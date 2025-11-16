@@ -248,3 +248,5 @@ double getValidAmount() {
         }
     }
 }
+
+//codigo corregido y funcionando
