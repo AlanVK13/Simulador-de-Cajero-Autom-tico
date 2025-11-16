@@ -25,25 +25,6 @@ Este proyecto cumple con los requisitos solicitados, utilizando diversos element
     * **Selección:** `switch` para el menú principal e `if-else` para validaciones.
     * **Repetición:** `do-while` para el ciclo del menú principal y `while` para la validación de login y montos.
 
-## 💻 Compilación y Ejecución
-
-### Requisitos
-* Un compilador de C++ (ej. **g++**).
-
-### Pasos
-1.  Abre una terminal (como Git Bash) en la carpeta del proyecto.
-2.  Compila el archivo `main.cpp` usando el siguiente comando:
-
-    ```bash
-    g++ main.cpp -o simulador -std=c++11
-    ```
-    *(Nota: Se usa `-std=c++11` o superior para la función `stod` y el manejo de excepciones estándar).*
-
-3.  Ejecuta el programa compilado:
-
-    ```bash
-    ./simulador
-    ```
 
 ## 🧪 Datos de Prueba
 
